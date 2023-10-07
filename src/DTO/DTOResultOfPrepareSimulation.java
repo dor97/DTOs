@@ -1,9 +1,10 @@
 package DTO;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class DTOResultOfPrepareSimulation {
-    private List<DTOEnvironmentVariablesValues> environmentVariablesValuesList;
+    private List<DTOEnvironmentVariablesValues> environmentVariablesValuesList = new ArrayList<>();
     private DTOException exception = new DTOException();
 
     public DTOResultOfPrepareSimulation(){
