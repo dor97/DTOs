@@ -2,7 +2,7 @@ package DTO;
 
 public class DTOSimulationError {
     private String error;
-    private DTOException exception;
+    private DTOException exception = new DTOException();
 
     public DTOException getException(){
         return exception;

@@ -1,7 +1,6 @@
 package DTO;
 
 import java.util.List;
-import java.util.Set;
 
 public class DTOWorldDifenichanCollecen {
     private List<String> worldDifenichanCollecen;
