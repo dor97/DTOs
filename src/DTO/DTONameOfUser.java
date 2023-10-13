@@ -1,9 +1,6 @@
 package DTO;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class DTOUserName {
+public class DTONameOfUser {
     private String userName;
 
     private DTOException exception = new DTOException();
