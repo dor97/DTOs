@@ -1,8 +1,5 @@
 package DTO;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class DTOUserName {
     private String userName;
 

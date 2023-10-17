@@ -29,7 +29,7 @@ public class DTOSimulationsDetails extends DTOSimulationDetailsItem{
 
     @Override
     public String toString(){
-        return "details";
+        return "simulations";
     }
 
 }
